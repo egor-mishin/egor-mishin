@@ -1,23 +1,27 @@
 
 
-## Hi, I'm Egor Mishin!
-Front-end developer / Web-designer
-### A little more about me...
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+# Hi there, I am Egor Mishin
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+## Front-end developer / Web-designer Welcome to my GitHub page.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+### 📧Contacts:
+
+- **Email:** em@egormishin.com
+- **Telegram:** [@egor_mishin](https://t.me/egor_mishin)
+- **LinkedIn:** [link](https://www.linkedin.com/in/egormishin/)
+
+### 🛠 Tech stack:
+- **Responsive web-development:** HTML5, CSS/SCSS MaterialUI, AntDesign;
+- **Frontend:** JavaScript (ES6+), TypeScript;
+- **Tehnologies:** Redux, Nextjs, GraphQL Apollo, ;
+-  **Libraries:** React;
+- **Graphic Editors:** Figma, Photoshop;
+
+
+### 📚 Languages:
+English([B1]), Russian(native) Belarusian(native).
+
+
+### 👨🏻‍🎓 Currently learning:
+Rolling scopes school
