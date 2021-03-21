@@ -9,7 +9,7 @@
 
 - **Email:** em@egormishin.com
 - **Telegram:** [@egor_mishin](https://t.me/egor_mishin)
-- **LinkedIn:** [link](https://www.linkedin.com/in/egormishin/)
+- **LinkedIn:** [Egor Mishin](https://www.linkedin.com/in/egormishin/)
 
 ### 🛠 Tech stack:
 - **Responsive web-development:** HTML5, CSS/SCSS MaterialUI, AntDesign;
