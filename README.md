@@ -2,7 +2,8 @@
 
 ## Hi, I'm Egor Mishin!
 Front-end developer / Web-designer
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ```javascript
 const thai = {
@@ -20,7 +21,3 @@ const thai = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-
-⭐️ From [@Thaiane](https://github.com/Thaiane)
