@@ -2,11 +2,12 @@
 
 # Hi there, I am Egor Mishin
 
-## Front-end developer / Web-designer Welcome to my GitHub page.
+## Front-end developer / Web-designer.
 
 
 ### 📧Contacts:
 
+- **Site:** egormishin.com
 - **Email:** em@egormishin.com
 - **Telegram:** [@egor_mishin](https://t.me/egor_mishin)
 - **LinkedIn:** [Egor Mishin](https://www.linkedin.com/in/egormishin/)
