@@ -21,7 +21,7 @@
 
 
 ### 📚 Languages:
-English([B2]), Polish([B1]), Russian(native) Belarusian(native).
+English(B2), Polish (B1), Russian(native) Belarusian(native).
 
 
 ### 👨🏻‍🎓 Currently learning:
