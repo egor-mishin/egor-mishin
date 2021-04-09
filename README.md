@@ -15,7 +15,7 @@
 ### 🛠 Tech stack:
 - **Responsive web-development:** HTML5, CSS/SCSS, MaterialUI, AntDesign;
 - **Frontend:** JavaScript (ES6+), TypeScript;
-- **Tehnologies:** Redux, Nextjs, GraphQL Apollo
+- **Tehnologies:** Redux, Nextjs, GraphQL Apollo;
 -  **Libraries:** React;
 - **Graphic Editors:** Figma, Photoshop;
 
