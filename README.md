@@ -2,7 +2,7 @@
 
 # Hi there, I am Egor Mishin
 
-## Front-end developer / Web-designer.
+## Front-end developer
 
 
 ### 📧Contacts:
