@@ -25,4 +25,4 @@ English(B1+), Polish (B1), Russian(native) Belarusian(native).
 
 
 ### 👨🏻‍🎓 Currently learning:
-Rolling scopes school
+Rolling scopes school (Angular)
