@@ -21,8 +21,8 @@
 
 
 ### 📚 Languages:
-English(B1+), Polish (B1), Russian(native) Belarusian(native).
+English(B2), Polish (B2), Russian(native) Belarusian(native).
 
 
 ### 👨🏻‍🎓 Currently learning:
-Rolling scopes school (Angular)
+NestJS(Node)
