@@ -1,6 +1,6 @@
 
 
-# Hi there, I am Egor Mishin
+# Hi there, I am Egor 
 
 ## Front-end developer
 
