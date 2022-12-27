@@ -17,7 +17,6 @@
 - **Frontend:** JavaScript (ES6+), TypeScript;
 - **Tehnologies:** Redux, Nextjs, GraphQL Apollo;
 -  **Libraries:** React;
-- **Graphic Editors:** Figma, Photoshop;
 
 
 ### 📚 Languages:
