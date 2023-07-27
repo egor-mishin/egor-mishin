@@ -2,7 +2,7 @@
 
 # Hi there, I am Egor 
 
-## Front-end developer
+## JavaSctipt developer
 
 
 ### 📧Contacts:
