@@ -2,7 +2,7 @@
 
 # Hi there, I am Egor 
 
-## JavaSctipt developer
+## FullStack developer
 
 
 ### 📧Contacts:
